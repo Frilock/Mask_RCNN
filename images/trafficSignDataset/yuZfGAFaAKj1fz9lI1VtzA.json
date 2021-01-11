@@ -1,0 +1,86 @@
+[
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": true,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 977.46875,
+      "ymin": 2015.484375,
+      "ymax": 2069.25,
+      "xmax": 1036.5625
+    },
+    "key": "nnlxz6nq7zuaen1e8t2ooh",
+    "label": "regulatory--maximum-speed-limit-50--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": true,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 1133.4375,
+      "ymin": 2014.7578125,
+      "ymax": 2069.25,
+      "xmax": 1190.59375
+    },
+    "key": "872zt6xm1dok9nhpz8xquu",
+    "label": "regulatory--maximum-speed-limit-90--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": true,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 1060.78125,
+      "ymin": 2016.2109375,
+      "ymax": 2072.15625,
+      "xmax": 1115.03125
+    },
+    "key": "c196i7eqb0vnp8hsdu963c",
+    "label": "regulatory--maximum-speed-limit-70--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 1210.9375,
+      "ymin": 2015.484375,
+      "ymax": 2073.609375,
+      "xmax": 1268.09375
+    },
+    "key": "61iadeiql1lb6y78o5gty6",
+    "label": "regulatory--maximum-speed-limit-110--g1"
+  }
+]

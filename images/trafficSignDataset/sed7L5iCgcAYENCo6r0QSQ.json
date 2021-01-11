@@ -1,0 +1,23 @@
+[
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 2952.984375,
+      "ymin": 1653.029296875,
+      "ymax": 1693.880859375,
+      "xmax": 2989.296875
+    },
+    "key": "om4ur288wdaoiyec4swz5r",
+    "label": "regulatory--maximum-speed-limit-40--g1"
+  }
+]

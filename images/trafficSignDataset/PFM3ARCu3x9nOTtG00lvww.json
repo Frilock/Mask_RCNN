@@ -1,0 +1,86 @@
+[
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 3823.1875,
+      "ymin": 1529.7451171875,
+      "ymax": 1642.0869140625,
+      "xmax": 3936.015625
+    },
+    "key": "nulkjxopj3wzk4ojijd5ni",
+    "label": "regulatory--maximum-speed-limit-50--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 5024.09375,
+      "ymin": 1522.4501953125,
+      "ymax": 1640.6279296875,
+      "xmax": 5162.859375
+    },
+    "key": "1c77lkexy0y27v7w3l4n1d",
+    "label": "regulatory--maximum-speed-limit-50--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 4616.875,
+      "ymin": 1675.6435546875,
+      "ymax": 1729.6259765625,
+      "xmax": 4673.9375
+    },
+    "key": "ka1irpdmhygeuglr5spy76",
+    "label": "regulatory--maximum-speed-limit-30--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 4082.5625,
+      "ymin": 1678.5615234375,
+      "ymax": 1727.4375,
+      "xmax": 4139.625
+    },
+    "key": "b4x7caezeoh8jwz5hurqxq",
+    "label": "regulatory--maximum-speed-limit-30--g1"
+  }
+]

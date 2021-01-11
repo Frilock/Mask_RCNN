@@ -1,0 +1,44 @@
+[
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 1238.34375,
+      "ymin": 1292.73046875,
+      "ymax": 1345.88671875,
+      "xmax": 1291.5
+    },
+    "key": "lv3w3pnszh7blikr8mlaxi",
+    "label": "regulatory--maximum-speed-limit-led-100--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 1410.609375,
+      "ymin": 1301.58984375,
+      "ymax": 1357.69921875,
+      "xmax": 1467.703125
+    },
+    "key": "q906zrd5sguij8vr4qnpsn",
+    "label": "regulatory--maximum-speed-limit-led-100--g1"
+  }
+]

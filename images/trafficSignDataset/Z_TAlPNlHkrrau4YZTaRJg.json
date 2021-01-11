@@ -1,0 +1,86 @@
+[
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 1385.015625,
+      "ymin": 2119.60546875,
+      "ymax": 2186.05078125,
+      "xmax": 1449.0
+    },
+    "key": "godgupfy25aq4beodd09kn",
+    "label": "regulatory--maximum-speed-limit-100--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 2663.71875,
+      "ymin": 2155.78125,
+      "ymax": 2218.53515625,
+      "xmax": 2733.609375
+    },
+    "key": "k6d562v8j1w3c35b1gj2d6",
+    "label": "regulatory--maximum-speed-limit-100--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 1539.5625,
+      "ymin": 2220.75,
+      "ymax": 2301.22265625,
+      "xmax": 1613.390625
+    },
+    "key": "w89b24st4m2lh0xasrx3ux",
+    "label": "regulatory--maximum-speed-limit-led-100--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 2368.40625,
+      "ymin": 2256.1875,
+      "ymax": 2336.66015625,
+      "xmax": 2450.109375
+    },
+    "key": "i4pbojjgum8egefhhdb4w5",
+    "label": "regulatory--maximum-speed-limit-led-100--g1"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 2380.21875,
+      "ymin": 1005.5390625,
+      "ymax": 1074.19921875,
+      "xmax": 2449.125
+    },
+    "key": "ko6dl1x1zx8hdwyu7bp2is",
+    "label": "regulatory--maximum-speed-limit-80--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 1802.390625,
+      "ymin": 968.4404296875,
+      "ymax": 1036.546875,
+      "xmax": 1866.375
+    },
+    "key": "7hpiwgpl4uvywq744eqb54",
+    "label": "regulatory--maximum-speed-limit-80--g1"
+  }
+]

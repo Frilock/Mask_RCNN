@@ -1,0 +1,107 @@
+[
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 2235.515625,
+      "ymin": 1676.63671875,
+      "ymax": 1734.9609375,
+      "xmax": 2292.609375
+    },
+    "key": "q3vhsnhhu27ei7esafu6lh",
+    "label": "regulatory--maximum-speed-limit-110--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 1343.671875,
+      "ymin": 1640.4609375,
+      "ymax": 1697.30859375,
+      "xmax": 1406.671875
+    },
+    "key": "ruhz3jqvcrwj5kpfv7h04i",
+    "label": "regulatory--maximum-speed-limit-110--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 2037.65625,
+      "ymin": 1727.578125,
+      "ymax": 1749.7265625,
+      "xmax": 2059.3125
+    },
+    "key": "6zctzsr08mtjqybx2nfluq",
+    "label": "regulatory--maximum-speed-limit-90--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 1694.109375,
+      "ymin": 1717.2421875,
+      "ymax": 1736.4375,
+      "xmax": 1715.765625
+    },
+    "key": "8oh7kitekc2m53tt45h8wj",
+    "label": "regulatory--maximum-speed-limit-90--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 2018.953125,
+      "ymin": 1749.7265625,
+      "ymax": 1766.70703125,
+      "xmax": 2035.6875
+    },
+    "key": "6j2hdqyae5kw69jr27es9j",
+    "label": "regulatory--maximum-speed-limit-70--g1"
+  }
+]

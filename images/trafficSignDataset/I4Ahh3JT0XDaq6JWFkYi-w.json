@@ -1,0 +1,23 @@
+[
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 2952.0,
+      "ymin": 1522.125,
+      "ymax": 1598.0625,
+      "xmax": 3029.625
+    },
+    "key": "3v4detal551lwrt1aelod3",
+    "label": "regulatory--maximum-speed-limit-100--g1"
+  }
+]

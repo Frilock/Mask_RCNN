@@ -1,0 +1,107 @@
+[
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 1793.53125,
+      "ymin": 1776.3046875,
+      "ymax": 1811.00390625,
+      "xmax": 1829.953125
+    },
+    "key": "WcTsJTJjRcqRfMi2ZtweNQ",
+    "label": "regulatory--maximum-speed-limit-70--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 2495.390625,
+      "ymin": 1760.0625,
+      "ymax": 1794.76171875,
+      "xmax": 2529.84375
+    },
+    "key": "irfmHrsmShm5U6LHentLKA",
+    "label": "regulatory--maximum-speed-limit-30--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 2183.34375,
+      "ymin": 1774.08984375,
+      "ymax": 1805.8359375,
+      "xmax": 2213.859375
+    },
+    "key": "if-MeXjMT6SmsNM6rIH8BA",
+    "label": "regulatory--maximum-speed-limit-70--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 1853.578125,
+      "ymin": 1802.14453125,
+      "ymax": 1824.29296875,
+      "xmax": 1874.25
+    },
+    "key": "AnCFli0cRHWuUr6MVQ3OvQ",
+    "label": "regulatory--maximum-speed-limit-70--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 2148.890625,
+      "ymin": 1795.5,
+      "ymax": 1815.43359375,
+      "xmax": 2167.59375
+    },
+    "key": "W_mIN9h6TqWUsn9XYhBmKQ",
+    "label": "regulatory--maximum-speed-limit-70--g1"
+  }
+]

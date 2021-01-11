@@ -1,0 +1,23 @@
+[
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": true,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 477.140625,
+      "ymin": 1869.9609375,
+      "ymax": 1929.287109375,
+      "xmax": 535.359375
+    },
+    "key": "dulz291wa2bhfu92rdwycf",
+    "label": "regulatory--maximum-speed-limit-110--g1"
+  }
+]

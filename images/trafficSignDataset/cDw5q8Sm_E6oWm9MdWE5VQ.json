@@ -1,0 +1,86 @@
+[
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": true,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 1736.390625,
+      "ymin": 1338.75,
+      "ymax": 1387.7578125,
+      "xmax": 1770.65625
+    },
+    "key": "syjfvf7wt5catkvcpsy28b",
+    "label": "regulatory--maximum-speed-limit-10--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": true,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 1236.75,
+      "ymin": 1683.0,
+      "ymax": 1709.296875,
+      "xmax": 1256.671875
+    },
+    "key": "y5h3042zgz76qk32ihv29e",
+    "label": "regulatory--maximum-speed-limit-10--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": true,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 2307.75,
+      "ymin": 1469.0390625,
+      "ymax": 1508.484375,
+      "xmax": 2327.671875
+    },
+    "key": "kf7395yh49hjo6mc4ri4ak",
+    "label": "regulatory--maximum-speed-limit-10--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": true,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 146.625,
+      "ymin": 1608.29296875,
+      "ymax": 1644.75,
+      "xmax": 180.890625
+    },
+    "key": "ij9bavswyxykf6lkes1dzj",
+    "label": "regulatory--maximum-speed-limit-10--g1"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 1630.40625,
+      "ymin": 1050.6796875,
+      "ymax": 1078.76953125,
+      "xmax": 1659.890625
+    },
+    "key": "5fqdajtvn1vaj1esm8efb3gu4n",
+    "label": "regulatory--maximum-speed-limit-led-60--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 1557.890625,
+      "ymin": 1049.484375,
+      "ymax": 1080.5625,
+      "xmax": 1586.578125
+    },
+    "key": "npmc4onc9kc5q9fmkjlh168h4v",
+    "label": "regulatory--maximum-speed-limit-led-60--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 1482.1875,
+      "ymin": 1050.6796875,
+      "ymax": 1079.3671875,
+      "xmax": 1512.46875
+    },
+    "key": "ntb5uh25631funi4v24gctajpm",
+    "label": "regulatory--maximum-speed-limit-led-60--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 1408.875,
+      "ymin": 1050.6796875,
+      "ymax": 1081.7578125,
+      "xmax": 1439.15625
+    },
+    "key": "884ubd4mceemeq5kn1e06i1kea",
+    "label": "regulatory--maximum-speed-limit-led-60--g1"
+  }
+]

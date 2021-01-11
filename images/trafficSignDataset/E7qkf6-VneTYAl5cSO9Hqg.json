@@ -1,0 +1,86 @@
+[
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": true,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 3607.90625,
+      "ymin": 1413.755859375,
+      "ymax": 1442.935546875,
+      "xmax": 3641.625
+    },
+    "key": "xubcites112w8qvgebjyaw",
+    "label": "regulatory--maximum-speed-limit-70--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": true,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 2676.75,
+      "ymin": 1481.5986328125,
+      "ymax": 1507.8603515625,
+      "xmax": 2707.875
+    },
+    "key": "ng0ethxvimqo5de8pjry5d",
+    "label": "regulatory--maximum-speed-limit-70--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 3650.703125,
+      "ymin": 1409.37890625,
+      "ymax": 1440.017578125,
+      "xmax": 3683.125
+    },
+    "key": "xy9nws1ka9322sxig7mkmc",
+    "label": "regulatory--maximum-speed-limit-60--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 2716.953125,
+      "ymin": 1473.57421875,
+      "ymax": 1507.130859375,
+      "xmax": 2748.078125
+    },
+    "key": "kd5hmwnftixanzv68lfuts",
+    "label": "regulatory--maximum-speed-limit-60--g1"
+  }
+]

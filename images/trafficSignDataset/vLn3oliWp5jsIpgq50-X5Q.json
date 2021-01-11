@@ -1,0 +1,23 @@
+[
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 358.4375,
+      "ymin": 250.6640625,
+      "ymax": 355.95703125,
+      "xmax": 445.625
+    },
+    "key": "i600kx7os3t9204toofm3g",
+    "label": "regulatory--maximum-speed-limit-10--g1"
+  }
+]

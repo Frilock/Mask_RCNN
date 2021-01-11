@@ -1,0 +1,23 @@
+[
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 463.78125,
+      "ymin": 969.99609375,
+      "ymax": 996.29296875,
+      "xmax": 490.875
+    },
+    "key": "njsicconsbasbchackz7su",
+    "label": "regulatory--maximum-speed-limit-30--g1"
+  }
+]

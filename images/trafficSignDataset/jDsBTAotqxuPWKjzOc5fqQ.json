@@ -1,0 +1,86 @@
+[
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": true,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 1696.2890625,
+      "ymin": 2487.3046875,
+      "ymax": 2515.869140625,
+      "xmax": 1721.6796875
+    },
+    "key": "cqxx4936rujdpqt8b27eub",
+    "label": "regulatory--maximum-speed-limit-40--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": true,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 1088.8671875,
+      "ymin": 2422.8515625,
+      "ymax": 2460.9375,
+      "xmax": 1124.0234375
+    },
+    "key": "5bijsn6qd4bjxbbkxfuedy",
+    "label": "regulatory--maximum-speed-limit-40--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": true,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 1614.2578125,
+      "ymin": 2420.654296875,
+      "ymax": 2458.0078125,
+      "xmax": 1648.4375
+    },
+    "key": "f4wnjqtuwn33h2yhg7i1qf",
+    "label": "regulatory--maximum-speed-limit-40--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": true,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 960.9375,
+      "ymin": 2448.486328125,
+      "ymax": 2477.05078125,
+      "xmax": 990.234375
+    },
+    "key": "gy2tcdd7c43mmye5tr1o83",
+    "label": "regulatory--maximum-speed-limit-40--g1"
+  }
+]

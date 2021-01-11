@@ -1,0 +1,107 @@
+[
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": true,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 2140.0,
+      "ymin": 1057.03125,
+      "ymax": 1093.125,
+      "xmax": 2178.125
+    },
+    "key": "97xiaoba6uymglfhkh8e3c",
+    "label": "regulatory--maximum-speed-limit-70--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": true,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 2140.0,
+      "ymin": 1132.5,
+      "ymax": 1169.0625,
+      "xmax": 2177.5
+    },
+    "key": "djexkcjv0bjkn5xoncm3zk",
+    "label": "regulatory--maximum-speed-limit-50--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": true,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 2141.25,
+      "ymin": 1020.9375,
+      "ymax": 1054.6875,
+      "xmax": 2180.625
+    },
+    "key": "vktytgis0q6a13k5f2tqkh",
+    "label": "regulatory--maximum-speed-limit-80--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": true,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 2141.875,
+      "ymin": 1094.53125,
+      "ymax": 1130.15625,
+      "xmax": 2177.5
+    },
+    "key": "valj01ynf6vt0fxfrm1tng",
+    "label": "regulatory--maximum-speed-limit-60--g1"
+  },
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": true,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 2143.125,
+      "ymin": 985.3125,
+      "ymax": 1017.65625,
+      "xmax": 2177.5
+    },
+    "key": "q7wwa9c0jr101r38ww319v",
+    "label": "regulatory--maximum-speed-limit-90--g1"
+  }
+]

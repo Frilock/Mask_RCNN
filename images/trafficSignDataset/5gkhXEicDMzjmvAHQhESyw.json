@@ -1,0 +1,23 @@
+[
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": true,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 570.5625,
+      "ymin": 1424.21484375,
+      "ymax": 1565.26171875,
+      "xmax": 715.59375
+    },
+    "key": "4ush19ev7ynl7rv05fkxee",
+    "label": "regulatory--maximum-speed-limit-20--g1"
+  }
+]

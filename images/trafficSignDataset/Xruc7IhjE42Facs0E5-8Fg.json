@@ -1,0 +1,23 @@
+[
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 2040.0390625,
+      "ymin": 646.728515625,
+      "ymax": 911.1328125,
+      "xmax": 2262.6953125
+    },
+    "key": "e11ellcmc5xn7t1ae7nzuw",
+    "label": "regulatory--maximum-speed-limit-led-80--g1"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "properties": {
+      "ambiguous": false,
+      "dummy": false,
+      "direction-or-information": false,
+      "barrier": false,
+      "occluded": false,
+      "out-of-frame": false,
+      "exterior": false,
+      "included": false,
+      "highway": false
+    },
+    "bbox": {
+      "xmin": 1585.78125,
+      "ymin": 1395.52734375,
+      "ymax": 1439.75390625,
+      "xmax": 1629.609375
+    },
+    "key": "nx25s9kw4ywbxivlw8343b",
+    "label": "regulatory--maximum-speed-limit-110--g1"
+  }
+]
